@@ -1,0 +1,41 @@
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+
+.social-icons .home-icon {
+    background-image: url("../team/home-icon-512.png");
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #e8e8e8;
+}
+.social-icons .home-icon:hover {
+    background-color: #666666;
+    border: 1px solid #4d4d4d;
+}
+
+a.green:link {
+    color: #16A186;
+}
+
+a.green:visited {
+    color: #16A186;
+}
+
+a.green:hover {
+    color: #16A186;
+}
+
+a.green:active {
+    color: #16A186;
+}
+
+.hg-plain {
+    color: #B9770E;
+}
+
+.sidenavi-logo {
+    width: 90%;
+    margin: auto;
+}
